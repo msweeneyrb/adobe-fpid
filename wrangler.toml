@@ -1,5 +1,6 @@
 #:schema node_modules/wrangler/config-schema.json
-name = "adpbe-fpid"
+name = "adobe-fpid"
+account_id = "9b9808400837e4ece88410fc3776a8fb"
 main = "src/index.ts"
 compatibility_date = "2024-09-09"
 compatibility_flags = ["nodejs_compat"]
